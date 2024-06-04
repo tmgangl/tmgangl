@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tmgangl
 - 👀 I’m interested in all things technology and music.
 - 🌱 I’m currently learning Linux and Drupal
-- 💞️ I’m looking to collaborate on things to teach me how be a better coder along with work projects.
+- 💞️ I’m looking to collaborate on things to teach me how be a better developer along with work projects.
 - 📫 How to reach me here or at my work email. 
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: If you hand me a musical intrument I could usually play it with some degree of proficiency shortly after. 
